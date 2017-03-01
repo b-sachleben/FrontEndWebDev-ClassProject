@@ -129,6 +129,13 @@ img {
   padding: 40px 20px;
 }
 
+.text-left {
+  text-align: left;
+}
+
+.text-right {
+  text-align: right;
+}
 
 /* ==========================================================================
    HEADER & HERO
@@ -388,4 +395,3 @@ footer {
 
 .text-right {  
   text-align: right; 
-}
